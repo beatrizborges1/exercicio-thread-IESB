@@ -1,0 +1,6 @@
+_______________________________
+
+Nome: (Meu nome é:)
+Idade: (Tenho X Anos)
+Cidade: (Moro em:)
+Faça uma despedida no processo.
